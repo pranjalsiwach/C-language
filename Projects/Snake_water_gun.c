@@ -16,7 +16,7 @@ int main(){
   if(computer==i&& player==i){
     printf("It is a draw,play again\n");
   }
-  }
+  }//Conditions either you win or loose
   if(computer==0&& player==1){
     printf("You lost the game play again\n");
   }
